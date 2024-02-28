@@ -77,7 +77,7 @@ public class XVII_SecGen extends BaseModPlugin {
 
             PlanetAPI XVII_cryodon_2 = system.addPlanet("XVII_cryodon_2",
                     alicerce_star,
-                    "Shadow The Hedgehog",
+                    "Pwwka",
                     "terran-eccentric", //nuke: cringe planet type too
                     300f, //starting angle
                     200f, //size
@@ -89,7 +89,7 @@ public class XVII_SecGen extends BaseModPlugin {
 
 //                MarketAPI XVII_cryodon_2_market = seven_util_sysgen.addMarketplace("XVII",
 //                    XVII_cryodon_2,
-//                    "Shadow The Hedgehog",
+//                    "Pwwka",
 //                    4,
 //                    new ArrayList<>(
 //                            Arrays.asList(
