@@ -1,21 +1,22 @@
 {
-    "id":"OneLastRound", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
-    "name":"One Last Round", # Displayed to the player
-    "author":"NuclearStudent",
+    "id":"XVII_Battlegroup", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+    "name":"XVII Battlegroup", # Displayed to the player
+    "author":"the concept of property is for nerds",
     "utility":"false",
     "version":"0.0.10",
-    "description":"",
-    "gameVersion": "0.96a-RC10",
+
+   # "description":"Driven from the bathhouses, the homosexual underground has taken to the fringes of the Persean Sector. Here, every cycle is Pride cycle.",
+    "description": "This is a placeholder description, which Lynx will presumably replace with an actual description.",
+    "gameVersion",: "0.96a-RC10",
     "totalConversion": "false",
-    "jars":["jars/OneLastRound.jar"],
-    "modPlugin":"data.scripts.OLR_ModPlugin",
+    "jars":["jars/XVII_Battlegroup.jar"],
+    "modPlugin":"data.scripts.XVII_ModPlugin",
 
     "dependencies": [
         {"id": "lw_lazylib", "name": "LazyLib"},
         {"id": "MagicLib", "name": "MagicLib"},
-        {"id": "nexerelin", "name": "nexerelin"}
     ],
     "ruleCommandPackages":[
-        "data.scripts.rulecmds",
-    ],
+        "data.scripts.rulecmds"
+    ]
 }
